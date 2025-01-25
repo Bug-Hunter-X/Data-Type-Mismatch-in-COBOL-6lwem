@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programming: data type mismatch. The file 'bug.cob' contains a program that attempts to store a string value in a numeric variable.  This can cause unexpected behavior or program termination.  'bugSolution.cob' shows how to correct the error by using compatible data types.
